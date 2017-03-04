@@ -15,7 +15,7 @@ is under the root directory at /LICENSE.txt.
     <groupId>org.tonicsoft.ebay</groupId>
     <artifactId>ebaysdkcore</artifactId>
     <packaging>jar</packaging>
-    <version>981.0.0-SNAPSHOT</version>
+    <version>981.0.0</version>
 
     <name>eBay SDK for Java</name>
     <description>
