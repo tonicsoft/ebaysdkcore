@@ -62,7 +62,7 @@ is under the root directory at /LICENSE.txt.
 			            verbose="true"
 			            xnocompile="true"
 			            sourcedestdir="src/main/java"
-			            wsdl="src/main/resources/eBaySvc.wsdl"
+			            wsdl="src/main/resources/com/ebay/sdk/eBaySvc.wsdl"
 			            quiet="true"
 			            package="com.ebay.soap.eBLBaseComponents">		
                         <binding dir="${basedir}" includes="custom-binding.xml,jaxb-binding.xjb"/> 						
