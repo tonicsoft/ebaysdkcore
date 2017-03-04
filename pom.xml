@@ -12,12 +12,12 @@ is under the root directory at /LICENSE.txt.
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.tonicsoft.ebaysdkcore</groupId>
+    <groupId>org.tonicsoft.ebay</groupId>
     <artifactId>ebaysdkcore</artifactId>
     <packaging>jar</packaging>
     <version>981.0.0-SNAPSHOT</version>
 
-    <name>ebaysdkcore</name>
+    <name>eBay SDK for Java</name>
     <description>
         This SDK enables you to use Java to make API calls in the eBay Trading API, which is an XML API.
         This maven build is provided by tonicsoft for convenience and is an exact copy of version 981 of
