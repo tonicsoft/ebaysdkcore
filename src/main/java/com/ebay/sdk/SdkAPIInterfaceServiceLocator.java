@@ -40,7 +40,7 @@ class SdkAPIInterfaceServiceLocator {
 	  //eBay API instance pool
 	  private static final ArrayList<EBayAPIInterface> apiPool = new ArrayList<EBayAPIInterface>();
 	  //the eBay wsdl is packaged with ebaysdkcore.jar
-	  private static final String EBAY_WSDL= "eBaySvc.wsdl";
+	  private static final String EBAY_WSDL= "com/ebay/sdk/eBaySvc.wsdl";
 	  private static final String EBAY_SERVICE_NAME = "eBayAPIInterfaceService";
 	  
 	  private static final String READ_TIMEOUT = "com.sun.xml.ws.request.timeout";
